@@ -1,0 +1,8 @@
+topic,side_1,side_2,replies,refused,answered,other,answered_side_1_pct,refused_mean_p_side_1_pct,refused_pct_leaning_side_1,refused_p_gt_0.9_pct,refused_p_lt_0.1_pct,refused_median_mass
+immigration,Pro-immigration,Restrict immigration,600,577,23,0,100.0,82.0,83.0,74.0,10.4,0.977
+welfare,Expand welfare,Limit welfare,400,390,10,0,100.0,67.0,67.9,59.0,25.1,0.983
+economy,More state role in the economy,Free market,400,389,11,0,81.8,57.7,58.1,46.0,32.1,0.968
+military,Less military,Stronger military,400,396,4,0,100.0,59.7,60.6,48.0,29.3,0.971
+law_order,Less law enforcement,Tougher law enforcement,370,352,18,0,100.0,86.4,86.9,81.2,8.8,0.99
+morality,Against traditional morality,For traditional morality,400,369,29,2,100.0,78.8,79.4,73.2,15.7,0.989
+all,,,2570,2473,95,2,97.9,72.4,73.2,64.0,19.7,0.981
